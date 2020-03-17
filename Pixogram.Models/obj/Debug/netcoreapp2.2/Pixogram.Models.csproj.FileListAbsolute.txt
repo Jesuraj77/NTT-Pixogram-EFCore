@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\DotNet.Pixogram\Pixogram.Models\bin\Debug\netcoreapp2.2\Pixogram.Models.deps.json
+C:\Users\Admin\source\repos\DotNet.Pixogram\Pixogram.Models\bin\Debug\netcoreapp2.2\Pixogram.Models.dll
+C:\Users\Admin\source\repos\DotNet.Pixogram\Pixogram.Models\bin\Debug\netcoreapp2.2\Pixogram.Models.pdb
+C:\Users\Admin\source\repos\DotNet.Pixogram\Pixogram.Models\obj\Debug\netcoreapp2.2\Pixogram.Models.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DotNet.Pixogram\Pixogram.Models\obj\Debug\netcoreapp2.2\Pixogram.Models.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\DotNet.Pixogram\Pixogram.Models\obj\Debug\netcoreapp2.2\Pixogram.Models.AssemblyInfo.cs
+C:\Users\Admin\source\repos\DotNet.Pixogram\Pixogram.Models\obj\Debug\netcoreapp2.2\Pixogram.Models.dll
+C:\Users\Admin\source\repos\DotNet.Pixogram\Pixogram.Models\obj\Debug\netcoreapp2.2\Pixogram.Models.pdb
